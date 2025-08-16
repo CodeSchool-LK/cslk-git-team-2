@@ -4,7 +4,4 @@ console.log('Hello world')
 
 print("Hello World");
 
-///////////////////////////////
-
-System.out.println("Hello World");
 
